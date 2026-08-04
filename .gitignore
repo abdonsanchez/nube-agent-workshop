@@ -1,0 +1,6 @@
+.agents/
+.claude/
+node_modules/
+.aws-sam/
+samconfig.toml
+skills-lock.json
